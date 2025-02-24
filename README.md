@@ -1,6 +1,6 @@
 # Hackathon
 Great Learning ML - Hackathon
 
-I was learning Python for thefirst time at this point so I tried a lot of different things. Excuse the over-analysis.
+I was learning Python for the first so I was trying a lot of different things. 
 
 All training and test data is owned by Great Learning and is not my own. It should only be used to run this code.
